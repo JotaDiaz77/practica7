@@ -37,5 +37,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            - jotadiaz7/practica7:latest
-            - ghcr.io/jotadiaz77/practica7:latest
+            jotadiaz7/practica7:latest
+            ghcr.io/jotadiaz77/practica7:latest
