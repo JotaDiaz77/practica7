@@ -39,5 +39,3 @@ jobs:
           tags: |
             jotadiaz7/practica7:latest
             ghcr.io/jotadiaz77/practica7:latest
-
-#Hasta los huevos ya
