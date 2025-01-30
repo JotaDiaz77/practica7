@@ -38,5 +38,5 @@ jobs:
           push: true
           tags: |
             jotadiaz7/practica7:latest
-            ghcr.io/jotadiaz77/practica7:latest
+            ghcr.io/JotaDiaz77/practica7:latest
 
